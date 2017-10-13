@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "601471789612",
+    "firebase_url": "https://ionicdb-f4783.firebaseio.com",
+    "project_id": "ionicdb-f4783",
+    "storage_bucket": "ionicdb-f4783.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601471789612:android:d07913e22e1798b7",
+        "android_client_info": {
+          "package_name": "com.muhammedessa.testme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601471789612-mq3lehehbm4rbbkucg45fjvukhq24v9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1hLvkbmjcl9QUwdRS7pMzVxGEdAkWQPQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601471789612:android:ad965ee6caaedd5d",
+        "android_client_info": {
+          "package_name": "com.muhammedessa.mynotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601471789612-mq3lehehbm4rbbkucg45fjvukhq24v9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1hLvkbmjcl9QUwdRS7pMzVxGEdAkWQPQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

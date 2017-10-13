@@ -11,6 +11,12 @@ import { TabsPage } from '../pages/tabs/tabs';
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 
+
+import { LocalNotifications } from '@ionic-native/local-notifications';
+
+import { FCM } from '@ionic-native/fcm';
+
+
 @NgModule({
   declarations: [
     MyApp,
@@ -32,6 +38,8 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     TabsPage
   ],
   providers: [
+    FCM,
+    LocalNotifications,
     StatusBar,
     SplashScreen,
     {provide: ErrorHandler, useClass: IonicErrorHandler}
